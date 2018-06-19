@@ -2,7 +2,7 @@
 
 Simple app that allow you to get a certain amount of random dice rolls.
 
-![screenshot](screenshot.png = 400x)
+<img src="screenshot.png" alt="screenshot" width="300px" />
 
 ### Icons and Images
 
