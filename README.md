@@ -2,6 +2,8 @@
 
 Simple app that allow you to get a certain amount of random dice rolls.
 
+[screenshot](screenshot.png)
+
 ### Icons and Images
 
 The icons were designed by:
